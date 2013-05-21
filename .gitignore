@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+.DS_Store
+
+# Xcode?
+*.mode1v3
+*.pbxuser
+xcuserdata
+project.xcworkspace
+UserInterfaceState.xcuserstate
+
+# Mac debugging symbols
+*.dSYM/
